@@ -1,7 +1,5 @@
 # School-Enrollment-Form-using-JasonPowerDB
 
-# I couldn't upload the project due to some errors which I wasn't able to resolve in due time. Hence I have attached the code. 
-School enrollment form
 <!DOCTYPE html>
 <html lang="en">
     <head>
